@@ -8,3 +8,8 @@ header{
 p{
     font-size:70px;
 }
+.center{
+    text-align: center;
+    font-size: 900px;
+    color: rgba(113, 193, 193, 1);
+}
