@@ -1,14 +1,16 @@
-body{
+body {
     background-color: rgba(52, 52, 52, 1);
 }
 
-header{
+header {
     background-color: rgba(113, 193, 193, 1)
 }
-p{
-    font-size:70px;
+
+p {
+    font-size: 70px;
 }
-.center{
+
+.center {
     text-align: center;
     font-size: 900px;
     color: rgba(113, 193, 193, 1);
